@@ -67,3 +67,37 @@
     width: 60px;
     height: 20px;
 }
+
+/* Inizio Animazioni e Filter */
+
+/* Esercizio 1 */
+
+.ex-1-square{
+    transition: 4s;
+}
+
+.ex-1-square:hover{
+    background-color: red;
+}
+
+/* Fine esercizio 1 */
+
+/* Esercizio 2 */
+
+.ex-2-square{
+    transition: 3s;
+}
+
+.ex-2-square:active{
+    width: 300px;
+    height: 150px;
+}
+
+/* Fine Esercizio 2 */
+
+
+
+
+
+/* Fine Animazioni e Filter */
+
