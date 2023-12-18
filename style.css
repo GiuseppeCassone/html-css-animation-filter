@@ -160,9 +160,35 @@
 
 /* Esercizio 9 */
 
+.ex-9-img{
+    transition: 3s;
+}
 
+.ex-9-img:hover{
+    filter: grayscale(0.3) sepia(0.8);
+    border-radius: 20%;
+    transform: scale(0.5);
+}
 
 /* Fine Esercizio 9 */
+
+/* Esercizio 10 */
+
+.ex-10-icon{
+    animation: loading 2s linear infinite;
+}
+
+@keyframes loading{
+    0% {
+        transform: rotate(1turn);
+    }
+
+}
+
+
+/* Fine Esercizio 10 */
+
+
 
 
 
