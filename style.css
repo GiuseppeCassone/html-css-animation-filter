@@ -119,6 +119,32 @@
 
 /* Fine Esercizio 4 */
 
+/* Esercizio 5 */
+
+.ex-5-square:hover{
+    transform: scale(1.3);
+}
+
+.ex-5-square:active{
+    transform: scale(0.5);
+}
+
+/* Fine Esercizio 5 */
+
+/* Esercizio 6 */
+
+.ex-6-img:hover{
+    filter: grayscale(1);
+}
+
+/* Fine Esercizio 6 */
+
+
+
+
+
+
+
 
 
 
